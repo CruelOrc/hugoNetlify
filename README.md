@@ -1,0 +1,2 @@
+# hugoNetlify
+Hugo on Netlify
